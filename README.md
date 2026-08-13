@@ -34,7 +34,6 @@ Power BI (dashboard)
 
 ## Screenshots
 
-*(Add your screenshots here, e.g.)*
 
 ![Power App form](./01-power-app-form.png)
 ![Power Automate flow](./02-automate-flow.png)
