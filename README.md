@@ -35,7 +35,7 @@ Power BI (dashboard)
 ## Screenshots
 
 
-![Power App form](./01-power-app-form.png)
+![Power App form]([./01-power-app-form.png](https://github.com/jannathulfirdouz21/bi-report-request-tracker/blob/main/Power%20App%20form.png))
 ![Power Automate flow](./02-automate-flow.png)
 ![Power BI dashboard](./03-powerbi-dashboard.png)
 
